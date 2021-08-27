@@ -13,7 +13,7 @@
 
 Web Developer & Bug Bounty Hunter from Europe
 
-I Share My Web Development & Cyber Security Knowledge on [Twitter](https://twitter.com/therceman) & [Instagram](https://www.instagram.com/therceman)
+I Share My Bug Bounty Knowledge on [Twitter](https://twitter.com/therceman), [Instagram](https://www.instagram.com/therceman) & [LinkedIn](https://www.linkedin.com/in/therceman)
 
 - ⚡ Web Development Skills
 
