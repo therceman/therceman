@@ -30,10 +30,10 @@ I Share My Web Development & Cyber Security Knowledge on [Twitter](https://twitt
 
 - 📖 My Latest articles
 
-1. [How To Start Bug Bounty Hunting - Short Intro](https://dev.to/therceman/how-to-start-bug-bounty-hunting-short-intro-1k0e)
-2. [What is a Website URL? Web Address Example Scheme and its Mandatory Components Explained](https://dev.to/therceman/what-is-a-url-3j9d)
-3. [What Is JavaScript Recursive Function? Advantage of Recursion Technology Clarified](https://dev.to/therceman/javascript-recursion-3a9o)
-4. [The New Competitive Image Format For Web — WebP](https://dev.to/therceman/the-new-image-format-for-web-webp-jb7)
+1. [How To Start Bug Bounty Hunting - Short Intro](https://networkingsec.com/how-to-start-bug-bounty-hunting-94b1ff3dda27)
+2. [What is a Website URL? Web Address Example Scheme and its Mandatory Components Explained](https://javascript.plainenglish.io/what-is-a-url-fc3581b87da1)
+3. [What Is JavaScript Recursive Function? Advantage of Recursion Technology Clarified](https://javascript.plainenglish.io/javascript-recursion-5f25f620e11b)
+4. [The New Competitive Image Format For Web — WebP](https://javascript.plainenglish.io/the-new-image-format-for-web-webp-5db1ffd59260)
 
 - 🔭 I’m currently working on
 
