@@ -11,7 +11,7 @@
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/therceman) -->
 
-Web Developer & Bug Bounty Hunter from Europe
+Web Developer (+15 years) & Bug Bounty Hunter (+5 years) from Europe
 
 I Share My Bug Bounty Knowledge on [Twitter](https://twitter.com/therceman), [Instagram](https://www.instagram.com/therceman) & [LinkedIn](https://www.linkedin.com/in/therceman)
 
