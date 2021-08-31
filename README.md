@@ -4,7 +4,7 @@
 
 Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
-Sharing my Bug Bounty Hunting Knowledge on **[Facebook](https://www.facebook.com/therceman)**, [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman) & [TikTok](https://www.tiktok.com/@therceman)
+Sharing my Bug Bounty Hunting Knowledge on **[Facebook](https://www.facebook.com/therceman)**, [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman), [TikTok](https://www.tiktok.com/@therceman) & [YouTube](https://youtube.com/channel/UClQbvBhJE8rv7pUJPy6MYfQ)
 
 - 💬 I'm on Social Platforms
 
@@ -13,7 +13,7 @@ Sharing my Bug Bounty Hunting Knowledge on **[Facebook](https://www.facebook.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therceman)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/therceman)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@therceman)
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UClQbvBhJE8rv7pUJPy6MYfQ)
 
 - 📖 I'm on Blogging Platforms
 
