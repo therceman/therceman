@@ -19,7 +19,7 @@ Sharing my Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/thercem
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@therceman)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/therceman)
-[![Tealfeed](https://raw.githubusercontent.com/therceman/therceman/master/tealfeed_logo_v2.svg)](https://tealfeed.com/therceman)
+[![Tealfeed](https://raw.githubusercontent.com/therceman/therceman/master/tealfeed_logo_v4.svg)](https://tealfeed.com/therceman)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.therceman.dev)
 
 - 🔰 My Latest articles
