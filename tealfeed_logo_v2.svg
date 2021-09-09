@@ -1,36 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="117" height="28" viewBox="0 0 117 28">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #018181;
-        stroke: #038282;
-      }
-
-      .cls-2 {
-        fill: #fff;
-        font-size: 15px;
-        font-family: Roboto-Bold, Roboto;
-        font-weight: 700;
-      }
-
-      .cls-3 {
-        stroke: none;
-      }
-
-      .cls-4 {
-        fill: none;
-      }
-    </style>
-  </defs>
   <g id="tealfeed_logo_v2" transform="translate(-4060 -4429)">
-    <g id="_68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465" data-name="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465" transform="translate(4060 4429)">
+    <g id="_68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e" data-name="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e" transform="translate(4060 4429)">
       <g id="Group_10" data-name="Group 10">
-        <g id="Rectangle_35" data-name="Rectangle 35" class="cls-1">
-          <rect class="cls-3" width="117" height="28"/>
-          <rect class="cls-4" x="0.5" y="0.5" width="116" height="27"/>
+        <g id="Rectangle_35" data-name="Rectangle 35" fill="#018181" stroke="#038282" stroke-width="1">
+          <rect width="117" height="28" stroke="none"/>
+          <rect x="0.5" y="0.5" width="116" height="27" fill="none"/>
         </g>
       </g>
     </g>
-    <text id="Tealfeed" class="cls-2" transform="translate(4089 4448)"><tspan x="0" y="0">Tealfeed</tspan></text>
+    <text id="TEALFEED" transform="translate(4085 4447)" fill="#fff" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="0.12em"><tspan x="0" y="0">TEALFEED</tspan></text>
   </g>
 </svg>
