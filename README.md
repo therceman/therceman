@@ -60,7 +60,7 @@ DM via Twitter [@therceman](https://twitter.com/therceman) or Email via contact@
 
 [www.therceman.dev](https://therceman.dev)
 
-![](https://komarev.com/ghpvc/?username=therceman)
+![](https://komarev.com/ghpvc/?username=therceman&label=Profile+views+since+20.11.2021)
 
 <!--
 **therceman/therceman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
