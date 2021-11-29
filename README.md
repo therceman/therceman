@@ -69,6 +69,17 @@ DM via Twitter [@therceman](https://twitter.com/therceman) or Email via contact@
 
 [www.therceman.dev](https://therceman.dev)
 
+-----------------
+
+⚡ bug bounty hunter
+⚡ sharing bug bounty hunting tips
+⚡ cybersecurity tips 2021
+⚡ cybersecurity tips for students
+⚡ bug bounty hunter training
+⚡ bug bounty hunting training
+⚡ how to do bug bounty hunting
+⚡ how to learn bug bounty hunting
+
 ![](https://komarev.com/ghpvc/?username=therceman&label=Profile+views+since+20.11.2021)
 
 <!--
