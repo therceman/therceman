@@ -4,7 +4,7 @@
 
 Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
-Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman), [YouTube](https://youtube.com/channel/UClQbvBhJE8rv7pUJPy6MYfQ), [Facebook](https://www.facebook.com/therceman) & [TikTok](https://www.tiktok.com/@therceman)
+Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman), [YouTube](https://youtube.com/channel/UClQbvBhJE8rv7pUJPy6MYfQ), [TikTok](https://www.tiktok.com/@therceman) & [Facebook](https://www.facebook.com/therceman)
 
 - 🎞️ Latest YouTube Videos
 
