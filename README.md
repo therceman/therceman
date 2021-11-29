@@ -80,6 +80,8 @@ DM via Twitter [@therceman](https://twitter.com/therceman) or Email via contact@
 ⚡ how to do bug bounty hunting
 ⚡ how to learn bug bounty hunting
 
+-----------------
+
 ![](https://komarev.com/ghpvc/?username=therceman&label=Profile+views+since+20.11.2021)
 
 <!--
