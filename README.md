@@ -79,8 +79,8 @@ DM via Twitter [@therceman](https://twitter.com/therceman) or Email via contact@
 ⚡ information security
 ⚡ how to do bug bounty hunting
 ⚡ how to learn bug bounty hunting
-⚡ bug bounty hunter training
-⚡ bug bounty hunting training
+⚡ infosec
+⚡ cybersec
 
 -----------------
 
