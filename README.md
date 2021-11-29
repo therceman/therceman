@@ -73,12 +73,14 @@ DM via Twitter [@therceman](https://twitter.com/therceman) or Email via contact@
 
 ⚡ bug bounty hunter
 ⚡ sharing bug bounty hunting tips
+⚡ cyber security
 ⚡ cybersecurity tips 2021
 ⚡ cybersecurity tips for students
-⚡ bug bounty hunter training
-⚡ bug bounty hunting training
+⚡ information security
 ⚡ how to do bug bounty hunting
 ⚡ how to learn bug bounty hunting
+⚡ bug bounty hunter training
+⚡ bug bounty hunting training
 
 -----------------
 
