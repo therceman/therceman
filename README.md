@@ -10,10 +10,10 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 
 [![Bug Bounty XSS Tips - Blacklisted Symbols](https://img.youtube.com/vi/Sg4LGDNTgPE/1.jpg)](https://www.youtube.com/watch?v=Sg4LGDNTgPE)
 [![Bug Bounty Tips - HTML Injection](https://img.youtube.com/vi/MUxP7os9tlU/1.jpg)](https://www.youtube.com/watch?v=MUxP7os9tlU)
-[![Bug Bounty XSS Tips & Tricks - Closing Tags](https://img.youtube.com/vi/CmQDom4LoDY/1.jpg)](https://www.youtube.com/watch?v=CmQDom4LoDY)
-[![XSS Filter Bypass Tricks #3 - input type=image](https://img.youtube.com/vi/cmbhGJZRzoE/1.jpg)](https://www.youtube.com/watch?v=cmbhGJZRzoE)
-[![XSS Filter Bypass Tricks #2 - Multiple Entries](https://img.youtube.com/vi/nlV0S54zbvE/1.jpg)](https://www.youtube.com/watch?v=nlV0S54zbvE)
-[![XSS Filter Bypass Tricks #1 - Multiple Inputs](https://img.youtube.com/vi/tv6p70OxQx0/1.jpg)](https://www.youtube.com/watch?v=tv6p70OxQx0)
+[![Bug Bounty XSS Tips & Tricks - Closing Tags](https://img.youtube.com/vi/CmQDom4LoDY/3.jpg)](https://www.youtube.com/watch?v=CmQDom4LoDY)
+[![XSS Filter Bypass Tricks #3 - input type=image](https://img.youtube.com/vi/cmbhGJZRzoE/3.jpg)](https://www.youtube.com/watch?v=cmbhGJZRzoE)
+[![XSS Filter Bypass Tricks #2 - Multiple Entries](https://img.youtube.com/vi/nlV0S54zbvE/3.jpg)](https://www.youtube.com/watch?v=nlV0S54zbvE)
+[![XSS Filter Bypass Tricks #1 - Multiple Inputs](https://img.youtube.com/vi/tv6p70OxQx0/3.jpg)](https://www.youtube.com/watch?v=tv6p70OxQx0)
 [![Workshop Announcement Video](https://img.youtube.com/vi/DJ2ERo959E8/1.jpg)](https://www.youtube.com/watch?v=DJ2ERo959E8)
 
 - 💬 I'm on Social Platforms
