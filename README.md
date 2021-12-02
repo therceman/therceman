@@ -4,10 +4,11 @@
 
 Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
-Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman), [YouTube](https://youtube.com/channel/UClQbvBhJE8rv7pUJPy6MYfQ), [TikTok](https://www.tiktok.com/@therceman) & [Facebook](https://www.facebook.com/therceman)
+Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman), [YouTube](https://youtube.com/therceman), [TikTok](https://www.tiktok.com/@therceman) & [Facebook](https://www.facebook.com/therceman)
 
 - 🎞️ Latest YouTube Videos
 
+[![Bug Bounty XSS Tips - Blacklisted Symbols](https://img.youtube.com/vi/Sg4LGDNTgPE/1.jpg)](https://www.youtube.com/watch?v=Sg4LGDNTgPE)
 [![Bug Bounty Tips - HTML Injection](https://img.youtube.com/vi/MUxP7os9tlU/1.jpg)](https://www.youtube.com/watch?v=MUxP7os9tlU)
 [![Bug Bounty XSS Tips & Tricks - Closing Tags](https://img.youtube.com/vi/CmQDom4LoDY/1.jpg)](https://www.youtube.com/watch?v=CmQDom4LoDY)
 [![XSS Filter Bypass Tricks #3 - input type=image](https://img.youtube.com/vi/cmbhGJZRzoE/1.jpg)](https://www.youtube.com/watch?v=cmbhGJZRzoE)
@@ -20,7 +21,7 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therceman)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/therceman)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UClQbvBhJE8rv7pUJPy6MYfQ)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/therceman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/therceman)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@therceman)
 
