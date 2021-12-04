@@ -8,6 +8,7 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 
 - 🎞️ Latest YouTube Videos
 
+[![Bug Bounty XSS Tips - HTML Tags & Attributes Part 1](https://img.youtube.com/vi/yMFauVfmRiQ/1.jpg)](https://www.youtube.com/watch?v=yMFauVfmRiQ)
 [![Bug Bounty XSS Tips - Blacklisted Symbols](https://img.youtube.com/vi/Sg4LGDNTgPE/1.jpg)](https://www.youtube.com/watch?v=Sg4LGDNTgPE)
 [![Bug Bounty Tips - HTML Injection](https://img.youtube.com/vi/MUxP7os9tlU/1.jpg)](https://www.youtube.com/watch?v=MUxP7os9tlU)
 [![Bug Bounty XSS Tips & Tricks - Closing Tags](https://img.youtube.com/vi/CmQDom4LoDY/3.jpg)](https://www.youtube.com/watch?v=CmQDom4LoDY)
