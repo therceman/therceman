@@ -8,6 +8,7 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 
 - 🎞️ Latest YouTube Videos
 
+[![Bug Bounty XSS Tips - HTML Tags & Attributes Part 2](https://img.youtube.com/vi/jHDTfLTMbT8/1.jpg)](https://www.youtube.com/watch?v=jHDTfLTMbT8)
 [![Bug Bounty XSS Tips - INPUT type=hidden](https://img.youtube.com/vi/THxlFYMLQ-c/1.jpg)](https://www.youtube.com/watch?v=THxlFYMLQ-c)
 [![Bug Bounty XSS Tips - HTML Tags & Attributes Part 1](https://img.youtube.com/vi/yMFauVfmRiQ/1.jpg)](https://www.youtube.com/watch?v=yMFauVfmRiQ)
 [![Bug Bounty XSS Tips - Blacklisted Symbols](https://img.youtube.com/vi/Sg4LGDNTgPE/1.jpg)](https://www.youtube.com/watch?v=Sg4LGDNTgPE)
@@ -15,7 +16,6 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 [![Bug Bounty XSS Tips & Tricks - Closing Tags](https://img.youtube.com/vi/CmQDom4LoDY/3.jpg)](https://www.youtube.com/watch?v=CmQDom4LoDY)
 [![XSS Filter Bypass Tricks #3 - input type=image](https://img.youtube.com/vi/cmbhGJZRzoE/3.jpg)](https://www.youtube.com/watch?v=cmbhGJZRzoE)
 [![XSS Filter Bypass Tricks #2 - Multiple Entries](https://img.youtube.com/vi/nlV0S54zbvE/3.jpg)](https://www.youtube.com/watch?v=nlV0S54zbvE)
-[![XSS Filter Bypass Tricks #1 - Multiple Inputs](https://img.youtube.com/vi/tv6p70OxQx0/3.jpg)](https://www.youtube.com/watch?v=tv6p70OxQx0)
 
 - 💬 I'm on Social Platforms
 
