@@ -8,6 +8,7 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 
 - 🎞️ Latest YouTube Videos
 
+[![Bug Bounty RCE Tip - Log4j Vulnerability](https://img.youtube.com/vi/R2Z0pgadPL4/2.jpg)](https://www.youtube.com/watch?v=R2Z0pgadPL4)
 [![Bug Bounty SSRF Tip - PDF iframe Injection](https://img.youtube.com/vi/i27bBK7N7kU/1.jpg)](https://www.youtube.com/watch?v=i27bBK7N7kU)
 [![Bug Bounty XSS Tips - HTML Tags & Attributes Part 2](https://img.youtube.com/vi/jHDTfLTMbT8/1.jpg)](https://www.youtube.com/watch?v=jHDTfLTMbT8)
 [![Bug Bounty XSS Tips - INPUT type=hidden](https://img.youtube.com/vi/THxlFYMLQ-c/1.jpg)](https://www.youtube.com/watch?v=THxlFYMLQ-c)
@@ -15,7 +16,6 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 [![Bug Bounty XSS Tips - Blacklisted Symbols](https://img.youtube.com/vi/Sg4LGDNTgPE/1.jpg)](https://www.youtube.com/watch?v=Sg4LGDNTgPE)
 [![Bug Bounty Tips - HTML Injection](https://img.youtube.com/vi/MUxP7os9tlU/1.jpg)](https://www.youtube.com/watch?v=MUxP7os9tlU)
 [![Bug Bounty XSS Tips & Tricks - Closing Tags](https://img.youtube.com/vi/CmQDom4LoDY/3.jpg)](https://www.youtube.com/watch?v=CmQDom4LoDY)
-[![XSS Filter Bypass Tricks #3 - input type=image](https://img.youtube.com/vi/cmbhGJZRzoE/3.jpg)](https://www.youtube.com/watch?v=cmbhGJZRzoE)
 
 - 💬 I'm on Social Platforms
 
