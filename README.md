@@ -35,10 +35,11 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 
 - 🔰 My Latest articles
 
+1. [Log4j Vulnerability Cheatsheet - How it works, where to practice, and how to identify](https://therceman.medium.com/log4j-vulnerability-cheatsheet-66b7aeabc607)
 1. [How To Start Bug Bounty Hunting - Short Intro](https://networkingsec.com/how-to-start-bug-bounty-hunting-94b1ff3dda27)
-2. [What is a Website URL? Web Address Example Scheme and its Mandatory Components Explained](https://javascript.plainenglish.io/what-is-a-url-fc3581b87da1)
-3. [What Is JavaScript Recursive Function? Advantage of Recursion Technology Clarified](https://javascript.plainenglish.io/javascript-recursion-5f25f620e11b)
-4. [The New Competitive Image Format For Web — WebP](https://javascript.plainenglish.io/the-new-image-format-for-web-webp-5db1ffd59260)
+1. [What is a Website URL? Web Address Example Scheme and its Mandatory Components Explained](https://javascript.plainenglish.io/what-is-a-url-fc3581b87da1)
+1. [What Is JavaScript Recursive Function? Advantage of Recursion Technology Clarified](https://javascript.plainenglish.io/javascript-recursion-5f25f620e11b)
+1. [The New Competitive Image Format For Web — WebP](https://javascript.plainenglish.io/the-new-image-format-for-web-webp-5db1ffd59260)
 
 - 💰 I'm on Bug Bounty Platforms
 
