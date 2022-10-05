@@ -6,6 +6,12 @@ Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
 Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman), [YouTube](https://youtube.com/therceman), [TikTok](https://www.tiktok.com/@therceman) & [Facebook](https://www.facebook.com/therceman)
 
+----------
+
+- ⚡ I’m currently working on [CVE Sandbox](https://github.com/cve-sandbox) - collection of reproducible exploits and payloads for various CVEs.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery-ui&show_owner=true)](https://github.com/cve-sandbox/jquery-ui)
+
 - 🎞️ Latest YouTube Videos
 
 [![Bug Bounty RCE Tip - Log4j Vulnerability](https://img.youtube.com/vi/R2Z0pgadPL4/2.jpg)](https://www.youtube.com/watch?v=R2Z0pgadPL4)
@@ -59,10 +65,6 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 [![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-- 🔭 I’m currently working on
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=therceman&repo=copper&show_owner=true)](https://github.com/therceman/copper)
 
 - 📫 How to reach me: 
 
