@@ -10,7 +10,8 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 
 - ⚡ I’m currently working on [CVE Sandbox](https://github.com/cve-sandbox) - collection of reproducible exploits and payloads for various CVEs.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery-ui&show_owner=true)](https://github.com/cve-sandbox/jquery-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery)](https://github.com/cve-sandbox/jquery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery-ui)](https://github.com/cve-sandbox/jquery-ui)
 
 - 🎞️ Latest YouTube Videos
 
