@@ -4,7 +4,7 @@
 
 Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
-Sharing Bug Bounty Hunting Knowledge on
+Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 [![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Ftherceman&query=count&color=1da1f2&label=Twitter&labelColor=555555&logo=twitter&cacheSeconds=3600&logoColor=ffffff)](https://twitter.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8600+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
