@@ -4,7 +4,15 @@
 
 Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
-Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman), [LinkedIn](https://www.linkedin.com/in/therceman), [Instagram](https://www.instagram.com/therceman), [YouTube](https://youtube.com/therceman), [TikTok](https://www.tiktok.com/@therceman) & [Facebook](https://www.facebook.com/therceman)
+Sharing Bug Bounty Hunting Knowledge on
+
+[![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Ftherceman&query=count&color=1da1f2&label=Twitter&labelColor=555555&logo=twitter&cacheSeconds=3600&logoColor=ffffff)](https://twitter.com/therceman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8600+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
+[![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftherceman&query=count&color=1da1f2&label=Telegram&labelColor=555555&logo=telegram&cacheSeconds=3600&logoColor=ffffff)](https://t.me/therceman)
+[![Instagram](https://img.shields.io/badge/Instagram-800+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)]([https://www.instagram.com/therceman)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UClQbvBhJE8rv7pUJPy6MYfQ?label=YouTube&logo=youtube&style=flat-square&color=1da1f2)](https://youtube.com/therceman)
+[![TikTok](https://img.shields.io/badge/Tiktok-110+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
+
 
 ----------
 
@@ -28,9 +36,9 @@ Sharing Bug Bounty Hunting Knowledge on [Twitter](https://twitter.com/therceman)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therceman)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/therceman)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/therceman)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/therceman)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/therceman)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@therceman)
 
 - 📖 I'm on Blogging Platforms
