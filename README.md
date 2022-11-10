@@ -10,8 +10,8 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8600+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftherceman&query=count&color=1da1f2&label=Telegram&labelColor=555555&logo=telegram&cacheSeconds=3600&logoColor=ffffff)](https://t.me/therceman)
 [![Instagram](https://img.shields.io/badge/Instagram-800+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)]([https://www.instagram.com/therceman)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UClQbvBhJE8rv7pUJPy6MYfQ?label=YouTube&logo=youtube&style=flat-square&color=1da1f2)](https://youtube.com/therceman)
-[![TikTok](https://img.shields.io/badge/Tiktok-110+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
+[![YouTube](https://img.shields.io/badge/YouTube-800+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
+[![TikTok](https://img.shields.io/badge/Tiktok-100+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
 
 
 ----------
