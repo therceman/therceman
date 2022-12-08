@@ -12,7 +12,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 [![Instagram](https://img.shields.io/badge/Instagram-880+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
 [![YouTube](https://img.shields.io/badge/YouTube-921+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
 [![TikTok](https://img.shields.io/badge/Tiktok-134+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
-
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)
 
 ----------
 
