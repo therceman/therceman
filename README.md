@@ -16,10 +16,9 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
-- ⚡ I’m currently working on [CVE Sandbox](https://github.com/cve-sandbox) - collection of reproducible exploits and payloads for various CVEs.
+- 💰 Latest Bug Bounty Writeups on Medium
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery)](https://github.com/cve-sandbox/jquery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery-ui)](https://github.com/cve-sandbox/jquery-ui)
+1. [$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)
 
 - 🎞️ Latest YouTube Videos
 
@@ -56,6 +55,13 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 1. [What Is JavaScript Recursive Function? Advantage of Recursion Technology Clarified](https://javascript.plainenglish.io/javascript-recursion-5f25f620e11b)
 1. [The New Competitive Image Format For Web — WebP](https://javascript.plainenglish.io/the-new-image-format-for-web-webp-5db1ffd59260)
 
+- ⚡ My Projects
+
+1. [CVE Sandbox](https://github.com/cve-sandbox) - collection of reproducible exploits and payloads for various CVEs.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery)](https://github.com/cve-sandbox/jquery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cve-sandbox&repo=jquery-ui)](https://github.com/cve-sandbox/jquery-ui)
+
 - 💰 I'm on Bug Bounty Platforms
 
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23F26822.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/therceman)
@@ -66,7 +72,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15412739/therceman)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/therceman)
 
-- ⚡ Web Development Skills
+- ✨ Web Development Skills
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
