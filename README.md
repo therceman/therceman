@@ -13,13 +13,11 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 [![YouTube](https://img.shields.io/badge/YouTube-962+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
 [![TikTok](https://img.shields.io/badge/Tiktok-144+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
 [![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmedium%2Ftherceman&query=count&color=1da1f2&label=Medium&labelColor=555555&logo=medium&cacheSeconds=3600&logoColor=ffffff)](https://therceman.medium.com)
-<!--
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)
--->
 
 ----------
 
-- 💰 Latest Bug Bounty Writeups on Medium
+- 💰 Latest Bug Bounty Writeups
 
 1. [$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)
 
