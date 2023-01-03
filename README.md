@@ -19,7 +19,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 - 💰 Latest Bug Bounty Writeups
 
-1. [$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)
+1. **[$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)**
 
 - 🎞️ Latest YouTube Videos
 
