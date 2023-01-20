@@ -7,11 +7,11 @@ Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 [![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Ftherceman&query=count&color=1da1f2&label=Twitter&labelColor=555555&logo=twitter&cacheSeconds=3600&logoColor=ffffff)](https://twitter.com/therceman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-10821+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11025+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftherceman&query=count&color=1da1f2&label=Telegram&labelColor=555555&logo=telegram&cacheSeconds=3600&logoColor=ffffff)](https://t.me/therceman)
-[![Instagram](https://img.shields.io/badge/Instagram-950+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
-[![YouTube](https://img.shields.io/badge/YouTube-1051+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
-[![TikTok](https://img.shields.io/badge/Tiktok-257+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
+[![Instagram](https://img.shields.io/badge/Instagram-972+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
+[![YouTube](https://img.shields.io/badge/YouTube-1060+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
+[![TikTok](https://img.shields.io/badge/Tiktok-274+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
 [![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmedium%2Ftherceman&query=count&color=1da1f2&label=Medium&labelColor=555555&logo=medium&cacheSeconds=3600&logoColor=ffffff)](https://therceman.medium.com)
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
 
