@@ -6,6 +6,8 @@ Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
+Discord: https://discord.gg/T7agUmgVW4
+
 [![Twitter](https://img.shields.io/badge/Twitter-9779+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-11193+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftherceman&query=count&color=1da1f2&label=Telegram&labelColor=555555&logo=telegram&cacheSeconds=3600&logoColor=ffffff)](https://t.me/therceman)
