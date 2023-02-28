@@ -6,8 +6,6 @@ Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
-Discord: https://discord.gg/T7agUmgVW4
-
 [![Twitter](https://img.shields.io/badge/Twitter-10100+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-11300+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftherceman&query=count&color=1da1f2&label=Telegram&labelColor=555555&logo=telegram&cacheSeconds=3600&logoColor=ffffff)](https://t.me/therceman)
@@ -18,6 +16,10 @@ Discord: https://discord.gg/T7agUmgVW4
 [![Discord](https://img.shields.io/badge/Discord-242+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
+
+----------
+
+Join Discord for Bug Bounty Hunters & CyberSecurity Enthusiasts -> https://therceman.dev/discord
 
 ----------
 
