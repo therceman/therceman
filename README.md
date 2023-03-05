@@ -19,7 +19,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
-Join Discord for Bug Bounty Hunters -> https://therceman.dev/discord
+Discord Server for Bug Bounty Hunters -> https://therceman.dev/discord
 
 ----------
 
