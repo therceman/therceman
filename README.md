@@ -41,7 +41,7 @@ Discord Server for Bug Bounty Hunters -> https://therceman.dev/discord
 [![Bug Bounty Tips - HTML Injection](https://img.youtube.com/vi/MUxP7os9tlU/1.jpg)](https://www.youtube.com/watch?v=MUxP7os9tlU)
 [![Bug Bounty XSS Tips & Tricks - Closing Tags](https://img.youtube.com/vi/CmQDom4LoDY/3.jpg)](https://www.youtube.com/watch?v=CmQDom4LoDY)
 
-- 💬 I'm on Social Platforms
+- 💬 I'm on Social Platforms & Servers
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therceman)
