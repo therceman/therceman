@@ -28,6 +28,7 @@ Discord Server for Bug Bounty Hunters -> https://therceman.dev/discord
 1. **[How to Find Your First Bug: Motivation and Tips for Bug Bounty Hunting](https://therceman.medium.com/how-to-find-your-first-bug-motivation-and-tips-for-bug-bounty-hunting-5e7343066d0c)**
 1. **[$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)**
 1. **[How to Start Bug Bounty Hunting](https://therceman.medium.com/how-to-start-bug-bounty-hunting-94b1ff3dda27)**
+1. **[Log4j Vulnerability Cheatsheet](https://therceman.medium.com/log4j-vulnerability-cheatsheet-66b7aeabc607)**
 
 
 - 🎞️ Latest YouTube Videos
@@ -59,10 +60,8 @@ Discord Server for Bug Bounty Hunters -> https://therceman.dev/discord
 [![Tealfeed](https://raw.githubusercontent.com/therceman/therceman/master/tealfeed_logo_v4.svg)](https://tealfeed.com/therceman)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.therceman.dev)
 
-- 🔰 My Latest articles
+- 🔰 My other articles
 
-1. [Log4j Vulnerability Cheatsheet - How it works, where to practice, and how to identify](https://therceman.medium.com/log4j-vulnerability-cheatsheet-66b7aeabc607)
-1. [How To Start Bug Bounty Hunting - Short Intro](https://networkingsec.com/how-to-start-bug-bounty-hunting-94b1ff3dda27)
 1. [What is a Website URL? Web Address Example Scheme and its Mandatory Components Explained](https://javascript.plainenglish.io/what-is-a-url-fc3581b87da1)
 1. [What Is JavaScript Recursive Function? Advantage of Recursion Technology Clarified](https://javascript.plainenglish.io/javascript-recursion-5f25f620e11b)
 1. [The New Competitive Image Format For Web — WebP](https://javascript.plainenglish.io/the-new-image-format-for-web-webp-5db1ffd59260)
