@@ -6,26 +6,29 @@ Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
 
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
-[![Twitter](https://img.shields.io/badge/Twitter-10100+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-11300+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
+[![Twitter](https://img.shields.io/badge/Twitter-10252+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11351+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftherceman&query=count&color=1da1f2&label=Telegram&labelColor=555555&logo=telegram&cacheSeconds=3600&logoColor=ffffff)](https://t.me/therceman)
-[![Instagram](https://img.shields.io/badge/Instagram-1057+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
-[![YouTube](https://img.shields.io/badge/YouTube-1117+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
-[![TikTok](https://img.shields.io/badge/Tiktok-311+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
+[![Instagram](https://img.shields.io/badge/Instagram-1068+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
+[![YouTube](https://img.shields.io/badge/YouTube-1125+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
+[![TikTok](https://img.shields.io/badge/Tiktok-314+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
 [![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmedium%2Ftherceman&query=count&color=1da1f2&label=Medium&labelColor=555555&logo=medium&cacheSeconds=3600&logoColor=ffffff)](https://therceman.medium.com)
-[![Discord](https://img.shields.io/badge/Discord-242+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
+[![Discord](https://img.shields.io/badge/Discord-427+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
 
 ----------
 
-Join Discord for Bug Bounty Hunters & CyberSecurity Enthusiasts -> https://therceman.dev/discord
+Join Discord for Bug Bounty Hunters -> https://therceman.dev/discord
 
 ----------
 
-- 💰 Latest Bug Bounty Writeups
+- 💰 Latest Bug Bounty Writeups & Articles
 
+1. **[How to Find Your First Bug: Motivation and Tips for Bug Bounty Hunting](https://therceman.medium.com/how-to-find-your-first-bug-motivation-and-tips-for-bug-bounty-hunting-5e7343066d0c)**
 1. **[$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)**
+1. **[How to Start Bug Bounty Hunting](https://therceman.medium.com/how-to-start-bug-bounty-hunting-94b1ff3dda27)**
+
 
 - 🎞️ Latest YouTube Videos
 
