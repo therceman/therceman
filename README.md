@@ -20,7 +20,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
-🔊 Podcast about my Bug Bounty Journey is released on ITSPMagazine -> https://therceman.dev/podcast
+🔊 Podcast about my Bug Bounty Journey -> https://therceman.dev/podcast
 
 ----------
 
