@@ -20,7 +20,11 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
-Discord Server for Bug Bounty Hunters -> https://therceman.dev/discord
+🔊 Podcast about my Bug Bounty Journey is released on ITSPMagazine -> https://therceman.dev/podcast
+
+----------
+
+💬 Discord Server for Bug Bounty Hunters -> https://therceman.dev/discord
 
 ----------
 
