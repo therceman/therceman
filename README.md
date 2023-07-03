@@ -12,11 +12,11 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 [![Twitter](https://img.shields.io/badge/Twitter-13200+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-12367+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
-[![Medium](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmedium%2Ftherceman&query=count&color=1da1f2&label=Medium&labelColor=555555&logo=medium&cacheSeconds=3600&logoColor=ffffff)](https://therceman.medium.com)
+[![Medium](https://img.shields.io/badge/Medium-1254+-brightgreen/json?logo=medium&color=1da1f2&label=Medium&labelColor=555555&logoColor=ffffff)](https://therceman.medium.com)
 [![Discord](https://img.shields.io/badge/Discord-1384+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
 
 [![YouTube](https://img.shields.io/badge/YouTube-1229+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
-[![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftherceman&query=count&color=1da1f2&label=Telegram&labelColor=555555&logo=telegram&cacheSeconds=3600&logoColor=ffffff)](https://t.me/therceman)
+[![Telegram](https://img.shields.io/badge/Telegram-992+-brightgreen/json?logo=telegram&color=1da1f2&label=Telegram&labelColor=555555&logoColor=ffffff)](https://t.me/therceman)
 [![Instagram](https://img.shields.io/badge/Instagram-1229+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
 [![TikTok](https://img.shields.io/badge/Tiktok-343+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
 
