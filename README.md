@@ -38,6 +38,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 - 💰 Latest Bug Bounty Writeups & Articles
 
+1. **[Bug Bounty Writeup: $2500 Reward for Session Hijack via Chained Attack](https://medium.com/@therceman/bug-bounty-writeup-2500-reward-for-session-hijack-via-chained-attack-2a4462e01d4d)**
 1. **[How to Find Your First Bug: Motivation and Tips for Bug Bounty Hunting](https://therceman.medium.com/how-to-find-your-first-bug-motivation-and-tips-for-bug-bounty-hunting-5e7343066d0c)**
 1. **[$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)**
 1. **[How to Start Bug Bounty Hunting](https://therceman.medium.com/how-to-start-bug-bounty-hunting-94b1ff3dda27)**
