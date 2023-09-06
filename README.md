@@ -2,7 +2,7 @@
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/therceman) -->
 
-Web Developer (+15 years) & Bug Bounty Hunter (+5 years) at HackerOne & Bugcrowd
+Web Developer (17+ years) & Bug Bounty Hunter (7+ years) at HackerOne & Bugcrowd
 
 Buy Me A Coffee ☕ https://buymeacoffee.com/therceman
 
