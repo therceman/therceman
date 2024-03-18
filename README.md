@@ -10,15 +10,15 @@ Buy Me A Coffee ☕ https://buymeacoffee.com/therceman
 
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
-[![Twitter](https://img.shields.io/badge/Twitter-17000+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-13850+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
-[![Medium](https://img.shields.io/badge/Medium-1676+-brightgreen/json?logo=medium&color=1da1f2&label=Medium&labelColor=555555&logoColor=ffffff)](https://therceman.medium.com)
-[![Discord](https://img.shields.io/badge/Discord-1200+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
+[![Twitter](https://img.shields.io/badge/Twitter-20285+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15595+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
+[![Medium](https://img.shields.io/badge/Medium-1900+-brightgreen/json?logo=medium&color=1da1f2&label=Medium&labelColor=555555&logoColor=ffffff)](https://therceman.medium.com)
+[![Discord](https://img.shields.io/badge/Discord-1100+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
 
-[![YouTube](https://img.shields.io/badge/YouTube-1448+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
-[![Telegram](https://img.shields.io/badge/Telegram-1143+-brightgreen/json?logo=telegram&color=1da1f2&label=Telegram&labelColor=555555&logoColor=ffffff)](https://t.me/therceman)
-[![Instagram](https://img.shields.io/badge/Instagram-1267+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
-[![TikTok](https://img.shields.io/badge/Tiktok-361+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
+[![YouTube](https://img.shields.io/badge/YouTube-1650+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
+[![Telegram](https://img.shields.io/badge/Telegram-1140+-brightgreen/json?logo=telegram&color=1da1f2&label=Telegram&labelColor=555555&logoColor=ffffff)](https://t.me/therceman)
+[![Instagram](https://img.shields.io/badge/Instagram-2250+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
+[![TikTok](https://img.shields.io/badge/Tiktok-360+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
 
