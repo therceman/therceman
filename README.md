@@ -10,7 +10,7 @@ Buy Me A Coffee ☕ https://buymeacoffee.com/therceman
 
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
-[![Twitter](https://img.shields.io/badge/Twitter-20508+-brightgreen?logo=twitter&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://twitter.com/therceman)
+[![Twitter](https://img.shields.io/badge/Twitter-20508+-brightgreen?logo=x&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://x.com/therceman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-15798+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
 [![Telegram](https://img.shields.io/badge/Telegram-2318+-brightgreen/json?logo=telegram&color=1da1f2&label=Telegram&labelColor=555555&logoColor=ffffff)](https://t.me/therceman)
 [![Medium](https://img.shields.io/badge/Medium-1958+-brightgreen/json?logo=medium&color=1da1f2&label=Medium&labelColor=555555&logoColor=ffffff)](https://therceman.medium.com)
