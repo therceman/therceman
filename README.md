@@ -4,8 +4,6 @@
 
 Web Developer (17+ years) & Bug Bounty Hunter (7+ years) at HackerOne & Bugcrowd
 
-Buy Me A Coffee ☕ https://buymeacoffee.com/therceman
-
 ----------
 
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
@@ -32,7 +30,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
-💬 Discord Server for Bug Bounty Hunters -> https://therceman.dev/discord
+🎵 Synthwave, Dance, and Trance Music by My Brother -> https://youtube.com/@synthterra
 
 ----------
 
