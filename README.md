@@ -22,15 +22,19 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
+🕹️ Game Dev Discord -> https://discord.gg/GewCmfBd
+
+----------
+
+🎵 Synthwave, Dance, and Trance Music by My Brother -> https://youtube.com/@synthterra
+
+----------
+
 📺 My YouTube Channel about Bug Bounty -> https://youtube.com/therceman
 
 ----------
 
 🔊 Podcast about my Bug Bounty Journey -> https://therceman.dev/podcast
-
-----------
-
-🎵 Synthwave, Dance, and Trance Music by My Brother -> https://youtube.com/@synthterra
 
 ----------
 
