@@ -34,7 +34,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
-🔊 Podcast about my Bug Bounty Journey -> https://therceman.dev/podcast
+🔊 Podcast about my Bug Bounty Journey -> [https://therceman.dev/podcast](https://www.linkedin.com/pulse/bug-bounties-content-creation-conversation-anton-rce-man-thomas)
 
 ----------
 
