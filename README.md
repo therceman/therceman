@@ -22,7 +22,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 ----------
 
-🕹️ Game Dev Discord -> https://discord.gg/GewCmfBd
+🕹️ Game Dev Discord -> https://discord.gg/rrNEfkQxtB
 
 ----------
 
