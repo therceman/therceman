@@ -8,17 +8,22 @@ Web Developer (17+ years) & Bug Bounty Hunter (7+ years) at HackerOne & Bugcrowd
 
 Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
-[![Twitter](https://img.shields.io/badge/Twitter-20508+-brightgreen?logo=x&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://x.com/therceman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-15798+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
-[![Telegram](https://img.shields.io/badge/Telegram-2318+-brightgreen/json?logo=telegram&color=1da1f2&label=Telegram&labelColor=555555&logoColor=ffffff)](https://t.me/therceman)
-[![Medium](https://img.shields.io/badge/Medium-1958+-brightgreen/json?logo=medium&color=1da1f2&label=Medium&labelColor=555555&logoColor=ffffff)](https://therceman.medium.com)
+[![Twitter](https://img.shields.io/badge/Twitter-21969+-brightgreen?logo=x&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://x.com/therceman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-17568+-brightgreen?logo=linkedin&color=1da1f2&labelColor=555555)](https://www.linkedin.com/in/therceman)
+[![Telegram](https://img.shields.io/badge/Telegram-2404+-brightgreen/json?logo=telegram&color=1da1f2&label=Telegram&labelColor=555555&logoColor=ffffff)](https://t.me/therceman)
+[![Medium](https://img.shields.io/badge/Medium-2000+-brightgreen/json?logo=medium&color=1da1f2&label=Medium&labelColor=555555&logoColor=ffffff)](https://therceman.medium.com)
 
-[![YouTube](https://img.shields.io/badge/YouTube-1683+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
-[![Instagram](https://img.shields.io/badge/Instagram-1312+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
-[![Discord](https://img.shields.io/badge/Discord-1076+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
-[![TikTok](https://img.shields.io/badge/Tiktok-361+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
+[![YouTube](https://img.shields.io/badge/YouTube-1750+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
+[![Instagram](https://img.shields.io/badge/Instagram-1306+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
+[![Discord](https://img.shields.io/badge/Discord-1079+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
+[![TikTok](https://img.shields.io/badge/Tiktok-359+-brightgreen?logo=tiktok&color=1da1f2&labelColor=555555)](https://www.tiktok.com/@therceman)
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
+----------
+My PDF Book - Bug Bounty Tips and Tricks Vol.1 (in progress)
+
+https://book.therceman.dev
+![book_making_plan](https://github.com/user-attachments/assets/25ab924b-6321-419e-9fd0-c6b59bb773b1)
 
 ----------
 
