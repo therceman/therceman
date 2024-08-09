@@ -20,9 +20,10 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
 ----------
-My PDF Book - Bug Bounty Tips and Tricks Vol.1 (in progress)
+My Book - Bug Bounty Tips and Tricks Vol.1 (Pre-Sale)
 
-https://book.therceman.dev
+🔗 https://book.therceman.dev
+
 ![book_making_plan](https://github.com/user-attachments/assets/25ab924b-6321-419e-9fd0-c6b59bb773b1)
 
 ----------
