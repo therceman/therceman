@@ -20,12 +20,11 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
 ----------
-Book: Bug Bounty Tips and Tricks Vol.1
-<br>Edition: Pre-Sale (Limited Content)
+Book: Bug Bounty Tips and Tricks Vol.1 (Pre-Sale Edition - Limited Content)
 <br>Price: $13.37 (33% OFF)
 <br>Link: https://book.therceman.dev
 <br>.
-![Book Promotion](https://github.com/user-attachments/assets/dff3916a-4e0e-4d24-820d-e5c5f2faaa55)
+![Book Promotion](https://github.com/user-attachments/assets/91573d3a-2040-4da3-b8af-93d64feaf6ff)
 
 ----------
 
