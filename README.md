@@ -28,10 +28,6 @@ Book: Bug Bounty Tips and Tricks Vol.1 (Pre-Sale Edition - Limited Content)
 
 ----------
 
-🕹️ Game Dev Discord -> https://discord.gg/rrNEfkQxtB
-
-----------
-
 🎵 Synthwave, Dance, and Trance Music by My Brother -> https://youtube.com/@synthterra
 
 ----------
