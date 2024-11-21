@@ -16,15 +16,16 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 [![YouTube](https://img.shields.io/badge/YouTube-1780+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
 [![Instagram](https://img.shields.io/badge/Instagram-1297+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
 [![Discord](https://img.shields.io/badge/Discord-1055+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
-[![TikTok](https://img.shields.io/badge/Bluesky-17+-brightgreen?logo=bluesky&color=1da1f2&labelColor=white)](https://bsky.app/profile/therceman.bsky.social)
+[![TikTok](https://img.shields.io/badge/Bluesky-36+-brightgreen?logo=bluesky&color=1da1f2&labelColor=white)](https://bsky.app/profile/therceman.bsky.social)
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
 ----------
-Book: Bug Bounty Tips and Tricks Vol.1 (Pre-Sale Edition - Limited Content)
+Book: Bug Bounty Tips and Tricks Vol.1 (Pre-Sale Edition - 18 Tips & Tricks)
 <br>Price: $13.37 (33% OFF)
 <br>Link: https://book.therceman.dev
 <br>.
-![Book Promotion](https://github.com/user-attachments/assets/91573d3a-2040-4da3-b8af-93d64feaf6ff)
+![Book Promotion v018](https://github.com/user-attachments/assets/319a195b-c259-47d9-9543-8ee46fb4a7e9)
+
 
 ----------
 
