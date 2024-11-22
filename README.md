@@ -16,7 +16,7 @@ Sharing Cyber Security and Bug Bounty Tips on the following social platforms
 [![YouTube](https://img.shields.io/badge/YouTube-1780+-brightgreen?logo=youtube&color=1da1f2&labelColor=555555)](https://www.youtube.com/therceman)
 [![Instagram](https://img.shields.io/badge/Instagram-1297+-brightgreen?logo=instagram&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://www.instagram.com/therceman)
 [![Discord](https://img.shields.io/badge/Discord-1055+-brightgreen?logo=discord&color=1da1f2&labelColor=555555&logoColor=ffffff)](https://therceman.dev/discord)
-[![TikTok](https://img.shields.io/badge/Bluesky-36+-brightgreen?logo=bluesky&color=1da1f2&labelColor=white)](https://bsky.app/profile/therceman.bsky.social)
+[![TikTok](https://img.shields.io/badge/Bluesky-142+-brightgreen?logo=bluesky&color=1da1f2&labelColor=white)](https://bsky.app/profile/therceman.bsky.social)
 
 <!--[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Ftherceman&query=count&color=1da1f2&label=GitHub&labelColor=555555&logo=github&cacheSeconds=3600&logoColor=ffffff)](https://github.com/therceman)-->
 ----------
